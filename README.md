@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **koiralabishwas0816@gmail.com**
 
-- ⚡ Fun fact **I am Nepalese. I am living in Japan since I was 13**
+- ⚡ Fun fact **I am a Nepalese,living in Japan since I was 13**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
