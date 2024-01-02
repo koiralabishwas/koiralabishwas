@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bishwas Koirala.</h1>
 <h3 align="center">I am doing my major in Mordern Business, but I dreamed of being a Web Engineer.So , I will do my best to achieve it.</h3>
 
-- 🔭 I’m currently working on [next-jinkaiken](https://next-jinkaiken.vercel.app/)
-
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **koiralabishwas0816@gmail.com**
+- 🔭 I’m currently working on [next-jinkaiken](https://next-jinkaiken.vercel.app/)
 
 - ⚡ Fun fact **I am a Nepalese,living in Japan since I was 13**
+
+- 📫 please contact me at : **koiralabishwas0816@gmail.com**
   
 <p align="left">
 </p>
