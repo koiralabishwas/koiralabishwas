@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🔭 I’m currently working on [next-jinkaiken](https://jindaikaikenbu.app/)
+- 🔭 I’m currently working on [next-jinkaiken](https://jindaikaikenbu.app/) and [donation app for(https://me-net.or.jp/)]
 
 - ⚡ Fun fact **I am a Nepalese,living in Japan since I was 13**
 
