@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishwas Koirala.</h1>
-<h3 align="center">I am doing my major in Mordern Business, but I dreamed of being a Web Engineer.So , I will do my best to achieve it.</h3>
+<h3 align="center">A business major graduating in 2026, currently seeking web engineering positions.</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
