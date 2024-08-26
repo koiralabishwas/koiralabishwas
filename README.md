@@ -26,12 +26,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Rushabh_%2Fmastering-next-js-a-comprehensive-guide-7799c3b8f968&psig=AOvVaw0Q7d1C7pfzvkLU8ABwNEEM&ust=1724730367424000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiZ6LjfkYgDFQAAAAAdAAAAABAJ" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<!--   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> -->
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
