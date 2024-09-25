@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishwas Koirala.</h1>
 <h3 align="center">A business major graduating in 2026, currently seeking web engineering positions.</h3>
 
--成果物一覧
+-成果物一覧-
 <p>
   <a href="https://www.jindaikaikenbu.app/member/borrow">書籍・部員情報管理アプリ</a>
 </p>
