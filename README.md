@@ -2,7 +2,7 @@
 
 -成果物一覧-
 
--   NPO用寄付アプリバックエンド（🔨開発中） : https://www.jindaikaikenbu.app/member/borrow
+-   NPO用寄付アプリバックエンド（🔨開発中） : https://dev-donation.me-net.or.jp/
 -   図書管理アプリ                       : https://www.jindaikaikenbu.app/member/borrow
 <br/>
 <br/>
