@@ -4,9 +4,10 @@
 <p>
   <a href="https://www.jindaikaikenbu.app/member/borrow">NPOの寄付アプリ(主にバックエンドのRestAPI)🔨開発中</a>
 </p>
--  NPO用寄付アプリ : https://www.jindaikaikenbu.app/member/borrow
--  図書管理アプリ : https://www.jindaikaikenbu.app/member/borrow
-- 📫 連絡 : **koiralabishwas0816@gmail.com**
+-   NPO用寄付アプリ : https://www.jindaikaikenbu.app/member/borrow
+<br/>
+-   図書管理アプリ  : https://www.jindaikaikenbu.app/member/borrow
+-   📫連絡         : **koiralabishwas0816@gmail.com**
   
 <p align="left">
 </p>
