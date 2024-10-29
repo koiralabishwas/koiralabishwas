@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bishwas Koirala.</h1>
-<h3 align="center">A business major graduating in 2026, currently seeking web engineering positions.</h3>
+<h1 align="center">こんにちわ</h1>
 
 -成果物一覧-
 <p>
   <a href="https://www.jindaikaikenbu.app/member/borrow">書籍・部員情報管理アプリ</a>
 </p>
+<p>
+  <a href="https://www.jindaikaikenbu.app/member/borrow">NPOの寄付アプリ(主にバックエンドのRestAPI)🔨開発中</a>
+</p>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 🔭 I’m currently working on a Donation web app for [NPO ME-NET](https://me-net.or.jp/) and my self projects [next-jinkaiken](https://jindaikaikenbu.app/) , [expense-tracking-app](https://github.com/BishwasKoirala/expense-manager)
-
-- ⚡ Fun fact **I am a Nepalese,living in Japan since I was 13**
-
-- 📫 please contact me at : **koiralabishwas0816@gmail.com**
+- 📫 連絡 : **koiralabishwas0816@gmail.com**
   
 <p align="left">
 </p>
