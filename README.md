@@ -1,13 +1,11 @@
 <h1 align="center">こんにちわ</h1>
 
 -成果物一覧-
-<p>
-  <a href="https://www.jindaikaikenbu.app/member/borrow">NPOの寄付アプリ(主にバックエンドのRestAPI)🔨開発中</a>
-</p>
--   NPO用寄付アプリ : https://www.jindaikaikenbu.app/member/borrow
+
+-   NPO用寄付アプリバックエンド（🔨開発中） : https://www.jindaikaikenbu.app/member/borrow
 <br/>
--   図書管理アプリ  : https://www.jindaikaikenbu.app/member/borrow
--   📫連絡         : **koiralabishwas0816@gmail.com**
+-   図書管理アプリ                       : https://www.jindaikaikenbu.app/member/borrow
+-   📫連絡                             : **koiralabishwas0816@gmail.com**
   
 <p align="left">
 </p>
