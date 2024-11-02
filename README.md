@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは!!、コイララビスワスです</h1>
+<h1 align="center">~Hello~</h1>
 
 -成果物一覧-
 
