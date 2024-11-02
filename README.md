@@ -5,7 +5,7 @@
 -   NPO用寄付アプリバックエンド（🔨開発中） : https://dev-donation.me-net.or.jp/
 -   図書管理アプリ                       : https://www.jindaikaikenbu.app/member/borrow
 <br/>
--   📫連絡                             : **koiralabishwas0816@gmail.com**
+-   📫連絡                             : koiralabishwas0816@gmail.com
   
 <p align="left">
 </p>
