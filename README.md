@@ -18,4 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koiralabishwas&show_icons=true&locale=en" alt="koiralabishwas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koiralabishwas&" alt="koiralabishwas" /></p>
+<img 
+  align="center" 
+  src="https://streak-stats.demolab.com?user=koiralabishwas&theme=algolia&hide_border=true" 
+  alt="koiralabishwas" 
+/>
