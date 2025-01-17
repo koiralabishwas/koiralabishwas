@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=koiralabishwas&show_icons=true&locale=en" alt="koiralabishwas" /></p>
 
 <p><img 
-  src="https://streak-stats.demolab.com?user=koiralabishwas&cachebust=1" 
+  src="https://streak-stats.demolab.com?user=koiralabishwas&cachebust=0" 
   alt="bishwaskoirala" 
 />
 </p>
