@@ -51,5 +51,5 @@
   </a> 
 </p>
 <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwaskoirala&" alt="bishwaskoirala" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koiralabishwas&" alt="koiralabishwas" />
 </a>
