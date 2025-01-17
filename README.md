@@ -20,6 +20,6 @@
 
 <img 
   align="center" 
-  src="https://streak-stats.demolab.com?user=koiralabishwas&theme=algolia&hide_border=true" 
+  src="https://streak-stats.demolab.com?user=koiralabishwas&theme=algolia&hide_border=true&date=20250117" 
   alt="koiralabishwas" 
 />
