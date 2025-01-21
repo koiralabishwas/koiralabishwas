@@ -129,11 +129,11 @@
 </p>
 
 <p>
-  <img
+<!--   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=koiralabishwas&show_icons=true&locale=en"
     alt="koiralabishwas"
-  />
+  /> -->
 </p>
 
 <p>
