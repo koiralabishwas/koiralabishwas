@@ -142,5 +142,5 @@
     src="https://streak-stats.demolab.com?user=koiralabishwas&cachebust=0&show_icons=true"
     alt="koiralabishwas"
   /> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=koiralabishwas" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=koiralabishwas" alt="GitHub Streak" />
 </p>
