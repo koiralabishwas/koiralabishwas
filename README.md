@@ -112,7 +112,7 @@
   </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFp31tRmPK-ateSMSXoOUgwArp-qh6WlVRkK6kVtJGEdoU3aakkk--CAOg8HKCMC-63nM&usqp=CAU"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
       alt="nextjs"
       width="40"
       height="40"
