@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishwas Koirala</h1>
-<h3 align="center">A Noob Developer</h3>
+<h3 align="center">Novice Developer</h3>
 
 <p align="left">
   <img
